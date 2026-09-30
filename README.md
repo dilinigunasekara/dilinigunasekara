@@ -55,12 +55,13 @@ I'm continuously working on new projects and expanding my development portfolio.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilini-gunasekara&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilini-gunasekara&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dilini-gunasekara&theme=transparent&hide_border=true)
 
+</div>
 </div>
 
 ---
