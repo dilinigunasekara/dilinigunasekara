@@ -62,7 +62,7 @@ I'm continuously working on new projects and expanding my development portfolio.
 ![GitHub Streak](https://streak-stats.demolab.com?user=dilini-gunasekara&theme=transparent&hide_border=true)
 
 </div>
-</div>
+
 
 ---
 
